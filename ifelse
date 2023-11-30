@@ -1,0 +1,11 @@
+#!/bin/bash
+
+m=1
+n=1
+
+if [ $n -eq $m ]
+then
+echo "both variables are equal"
+else
+echo "both variables are different"
+fi
